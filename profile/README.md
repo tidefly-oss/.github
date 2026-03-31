@@ -40,6 +40,3 @@ Built on a lightweight stack (Go + SvelteKit) with zero-config defaults, so you 
 - 🪝 **Webhooks** — auto-deploy on push from GitHub, GitLab, Gitea, Bitbucket
 - 💾 **Backups** — Postgres export to S3-compatible storage or direct `pg_dump` download
 - 🧩 **Open source** — AGPLv3, self-hosted, no telemetry
-
-## Getting Started
-```bash
