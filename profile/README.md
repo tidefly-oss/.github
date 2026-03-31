@@ -40,3 +40,16 @@ Built on a lightweight stack (Go + SvelteKit) with zero-config defaults, so you 
 - 🪝 **Webhooks** — auto-deploy on push from GitHub, GitLab, Gitea, Bitbucket
 - 💾 **Backups** — Postgres export to S3-compatible storage or direct `pg_dump` download
 - 🧩 **Open source** — AGPLv3, self-hosted, no telemetry
+
+## Status
+
+Tidefly is currently in **alpha**. Core features are working and being tested.
+Production use is possible but expect breaking changes between releases.
+
+---
+
+<div align="center">
+
+Built with ❤️ · [AGPLv3](https://github.com/tidefly-oss/tidefly-plane/blob/main/LICENSE) · [Report a vulnerability](https://github.com/tidefly-oss/tidefly-plane/security/advisories/new)
+
+</div>
